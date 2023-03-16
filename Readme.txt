@@ -1,0 +1,1 @@
+Creating a spotify clone in order to learn react.
